@@ -138,7 +138,7 @@ Each recommendation in this project is supported by **Power BI visuals**:
 | [Presentation_Deck.pdf](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/Optimizing%20revenue%20leakage%20and%20profitability%20in%20the%20hospitality%20sector_compressed.pdf)               | Final report presentation (recommendations + insights) |
 | [README.md](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/README.md)                           | This project summary                      |
 | [fact_bookings.csv](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/fact_bookings.csv) | Raw booking data                          |
-| [dim_hotels.csv](./Raw_Data/dim_hotels.csv)       | Hotel master data                         |
+| [dim_hotels.csv](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/dim_hotels.csv)       | Hotel master data                         |
 | [dim_rooms.csv](./Raw_Data/dim_rooms.csv)         | Room master data                          |
 | [Screenshots](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/Dashboard.pdf.pdf)                    | Visuals used for insight justification    |
 
