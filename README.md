@@ -134,7 +134,7 @@ Each recommendation in this project is supported by **Power BI visuals**:
 
 | File                                   | Description                               |
 |----------------------------------------|-------------------------------------------|
-| [PowerBI_Dashboard.pbix](./PowerBI_Dashboard.pbix)              | Power BI dashboard with all visuals & DAX |
+| [PowerBI_Dashboard.pbix](./https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/IITG_The_Diva_project_final.pbix)              | Power BI dashboard with all visuals & DAX |
 | [Presentation_Deck.pdf](./Presentation_Deck.pdf)               | Final report presentation (recommendations + insights) |
 | [README.md](./README.md)                           | This project summary                      |
 | [fact_bookings.csv](./Raw_Data/fact_bookings.csv) | Raw booking data                          |
