@@ -140,7 +140,7 @@ Each recommendation in this project is supported by **Power BI visuals**:
 | [fact_bookings.csv](./Raw_Data/fact_bookings.csv) | Raw booking data                          |
 | [dim_hotels.csv](./Raw_Data/dim_hotels.csv)       | Hotel master data                         |
 | [dim_rooms.csv](./Raw_Data/dim_rooms.csv)         | Room master data                          |
-| [Screenshots](./pdf/)                    | Visuals used for insight justification    |
+| [Screenshots](https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/Dashboard.pdf.pdf)                    | Visuals used for insight justification    |
 
 ---
 
