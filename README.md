@@ -148,7 +148,7 @@ Each recommendation in this project is supported by **Power BI visuals**:
 
 **Tanya Singh**  
 B.A. Business Economics | Data Analytics & Strategy Enthusiast  
-[GitHub Profile](#) • [LinkedIn](#) • [Email](#)
+[GitHub Profile](https://github.com/Tanyafestly) • [LinkedIn](https://www.linkedin.com/in/tanya-kumari-245bb4289/) • [Email](mailto:tanya.festly@gmail.com)
 
 ---
 
