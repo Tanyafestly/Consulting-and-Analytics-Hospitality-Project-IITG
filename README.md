@@ -134,11 +134,13 @@ Each recommendation in this project is supported by **Power BI visuals**:
 
 | File                                   | Description                               |
 |----------------------------------------|-------------------------------------------|
-| https://github.com/Tanyafestly/Consulting-and-Analytics-Hospitality-Project-IITG/blob/main/IITG_The_Diva_project_final.pbix              | Power BI dashboard with all visuals & DAX |
-| `Presentation_Deck.pdf`               | Final report presentation (recommendations + insights) |
-| `README.md`                           | This project summary                      |
-| `/Raw_Data/*.csv`                     | Raw booking, hotel, and room datasets     |
-| `/Screenshots/*.png`                  | Visuals used for insight justification    |
+| [PowerBI_Dashboard.pbix](./PowerBI_Dashboard.pbix)              | Power BI dashboard with all visuals & DAX |
+| [Presentation_Deck.pdf](./Presentation_Deck.pdf)               | Final report presentation (recommendations + insights) |
+| [README.md](./README.md)                           | This project summary                      |
+| [fact_bookings.csv](./Raw_Data/fact_bookings.csv) | Raw booking data                          |
+| [dim_hotels.csv](./Raw_Data/dim_hotels.csv)       | Hotel master data                         |
+| [dim_rooms.csv](./Raw_Data/dim_rooms.csv)         | Room master data                          |
+| [Screenshots](./pdf/)                    | Visuals used for insight justification    |
 
 ---
 
